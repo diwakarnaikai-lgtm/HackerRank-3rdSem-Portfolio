@@ -9,7 +9,6 @@
 
 ## HackerRank Profile
 
-**HackerRank Profile:**  
 [My HackerRank Profile](https://www.hackerrank.com/profile/diwakarnaikai)
 
 ## Problems Solved
@@ -25,23 +24,46 @@
 ## Solutions
 
 ### 1. Diagonal Difference
+
 [View Solution](./diagonal-difference/01-diagonal-difference.cpp)
 
 ### 2. Dynamic Array
+
 [View Solution](./dynamic-array/02-dynamic-array.cpp)
 
 ### 3. Time Conversion
+
 [View Solution](./time-conversion/03-time-conversion.cpp)
 
 ### 4. Compare the Triplets
+
 [View Solution](./compare-the-triplets/04-compare-the-triplets.cpp)
 
 ### 5. Sparse Arrays
+
 [View Solution](./sparse-arrays/05-sparse-arrays.cpp)
 
 ## HackerRank Submission Screenshots
 
-Screenshots of accepted submissions will be added here.
+### 1. Diagonal Difference
+
+![Diagonal Difference](./screenshots/01-diagonal-difference.png)
+
+### 2. Dynamic Array
+
+![Dynamic Array](./screenshots/02-dynamic-array.png)
+
+### 3. Time Conversion
+
+![Time Conversion](./screenshots/03-time-conversion.png)
+
+### 4. Compare the Triplets
+
+![Compare the Triplets](./screenshots/04-compare-the-triplets.png)
+
+### 5. Sparse Arrays
+
+![Sparse Arrays](./screenshots/05-sparse-arrays.png)
 
 ## HackerRank Badge
 
